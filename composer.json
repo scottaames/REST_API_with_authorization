@@ -1,0 +1,13 @@
+{
+  "require": {
+    "vlucas/phpdotenv": "^2.4",
+    "okta/jwt-verifier": "^0.4.0",
+    "guzzlehttp/psr7": "^1.6",
+    "web-token/jwt-framework": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
